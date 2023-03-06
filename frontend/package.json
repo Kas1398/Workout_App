@@ -26,6 +26,10 @@
       "react-app/jest"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kas1398/Workout_App.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
